@@ -1,0 +1,4 @@
+#Mon Nov 02 16:53:24 KST 2020
+base.0=/Users/gabriel/Git/Kotlin_Study/DessertClickerLogs/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
